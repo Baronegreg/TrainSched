@@ -1,1 +1,1 @@
-<?php include_once("TrainSched.html"); ?>
+<?php include_once("trainSchedule.html"); ?>
